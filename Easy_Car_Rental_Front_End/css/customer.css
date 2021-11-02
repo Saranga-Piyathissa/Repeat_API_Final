@@ -1,0 +1,17 @@
+#dashboard{
+    display: none;
+    padding-top: 50px;
+}
+#place-booking{
+    display: none;
+    padding-top: 50px;
+}
+#bookings{
+    display: none;
+    padding-top: 50px;
+}
+#profile{
+    display: none;
+    padding-top: 50px;
+}
+
